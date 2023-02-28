@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+     /* overflow: hidden;  */
+    display: flex;
+    width: 100%;
+}
+.pr{ 
+    margin-left: 70px;
+    font-size: 170%;
+    color: white;
+}
+.saidbar{
+    overflow: hidden;
+    padding-top: 70px;
+    width: 20%;
+    height: 100vh;
+    background-color:rgba(255, 13, 0, 0.732);
+    color: white;
+    font-size: 150%;
+    /* margin-left: -25.5vh; */
+    
+    
+}
+.saidbar p{
+    color: white;
+    margin-left: 10vh;
+}
+.textes{
+    color: black;
+}
+.id:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.ii:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.iy:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.ip:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.io:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+
+.it:hover{
+    background-color: white;
+    width: 100%;
+    color: black;
+}
+.main{
+    width: 80%;
+    color: black;
+    overflow: scroll;
+    height: 100vh;
+}
+.zagal p{
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 400%;
+}
+.zagal h3{
+    color: red;
+    font-size: 350%;
+    margin-left: 45px;
+}
+.photo{
+    height: 65vh;
+    width: 50%;
+    margin-left: 10px;
+    display: flex;
+    
+}
+#lol{
+    margin-left: 20px;
+}
+.photo2{
+    width: 90%;
+    margin: 10px;
+    display: flex;
+}
+#kok {
+    
+    width: 54%;
+    height: 45vh;
+}
+#jok{
+    margin-left: 20px;
+    height: 45vh;
+    width: 54%;
+}
+.photo3{
+    width: 90%;
+    margin: 10px;
+    display: flex;
+}
+#pok{
+    margin-left: 20px;
+    height: 45vh;
+    width: 54%;
+}
+#key{
+
+    height: 45vh;
+    width: 54%;
+}
+.text{
+    margin-left: 10vh ;
+    font-size: 120% ;
+}
+.zagal2{
+    color: red;
+    margin-left: 45px;
+    margin-top: 45px;
+    font-size: 400%;
+}
+.zag{
+    margin-left: 10vh;
+  font-weight: bold;
+  font-size: 150%;
+}
+.team1{
+    width:30%;
+    margin-left:10vh ;
+    height:54vh;
+    border:1px solid ;
+}
+.team1 img{
+    width: 100%;
+}
+
+.main2{
+    display: flex;   
+}
+.team1 p{
+  font-size: 120%;
+}
+
